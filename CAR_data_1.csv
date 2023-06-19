@@ -1,0 +1,11 @@
+Product,Market type,Body,Production type,Market share(%),Price(lakh),Battery(kWh),Range(km)
+Tata Nexon Ev,Mass-market,SUV,Local,63,15,30.2,312
+Tata Tigor Ev,Mass-market,sedan,Local,24,12.5,26,315
+MG EZ5,Mass-market,SUV,CKD,11.5,23.38,50.3,419
+Hyundai Kona,Mass-market,SUV,CKD,0.59,24,39.2,452
+Mahindra E-Verito,Mass-market,sedan,Local,0.36,16,34.5,375
+Audi e-Tron,Luxury,SUV,CBU,0.33,100,71,360
+Jaguar I-Pace,Luxury,SUV,CBU,0.31,100,90,470
+Mercedes EQC,Luxury,SUV,CBU,0.14,99,80,460
+Audi e-Tron Sportback,Luxury,SUV,CBU,0.1,120,71,379
+BMW IX,Luxury,SUV,CBU,0.01,124,71,420
