@@ -11,33 +11,25 @@ Through our comprehensive market analysis, we have successfully identified disti
 
 Moreover, our analysis also highlighted key factors influencing EV adoption, such as government policies and infrastructure development. By addressing these factors, stakeholders in the EV ecosystem can collaborate to create an enabling environment that fosters the growth of the industry.
 ## Repository Structure
-data: This folder contains the dataset used for the analysis.
-notebooks: This folder includes Jupyter notebooks documenting the step-by-step analysis and insights derived from the data.
-scripts: This folder contains any auxiliary scripts used during the analysis.
-results: This folder houses the visualizations, reports, and any other relevant outputs generated from the analysis.
-Usage
+<b>Complete_Ev_Market_segementation:</b> This folder contains the whole code and analysis results.
+<b>Code files:</b> This contains the codes
+<b>Dataset:</b> This file contains the total dataset for this project.
+## Usage
 To replicate or build upon this market analysis, follow these steps:
 
-Clone the repository:
-bash
-Copy code
-git clone https://github.com/your-username/ev-market-analysis.git
-Navigate to the cloned directory:
-bash
-Copy code
-cd ev-market-analysis
-Install the necessary dependencies. We recommend creating a virtual environment before installing the dependencies:
-bash
-Copy code
+<b>Clone the repository:</b>
+
+git clone https://github.com/Pallabpal/ev-market.git
+<b>Install the necessary dependencies. We recommend creating a virtual environment before installing the dependencies:</b>
 virtualenv env
 source env/bin/activate
 pip install -r requirements.txt
-Explore the notebooks directory to access the Jupyter notebooks containing the analysis and insights.
 
-Utilize the data in the data folder to perform further analysis or modify the existing notebooks according to your requirements.
+1. Explore the notebooks directory to access the Jupyter notebooks containing the analysis and insights.
+2. Utilize the data in the data folder to perform further analysis or modify the existing notebooks according to your requirements.
 
-Contributors
-John Doe
-Jane Smith
-Alex Johnson
+<b>Teammates<b>
+<li>Midhir Nambiar</li>
+<li>Kushal Bosu</li>
+<li>Pratham Singh</li>
 Feel free to contribute to this project by submitting pull requests. If you encounter any issues or have suggestions for improvements, please open an issue on the repository.
