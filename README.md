@@ -11,8 +11,8 @@ Through our comprehensive market analysis, we have successfully identified disti
 
 Moreover, our analysis also highlighted key factors influencing EV adoption, such as government policies and infrastructure development. By addressing these factors, stakeholders in the EV ecosystem can collaborate to create an enabling environment that fosters the growth of the industry.
 ## Repository Structure
-<b>Complete_Ev_Market_segementation:</b> This folder contains the whole code and analysis results.
-<b>Code files:</b> This contains the codes
+<b>Complete_Ev_Market_segementation:</b> This folder contains the whole code and analysis results.<br/>
+<b>Code files:</b> This contains the codes<br/>
 <b>Dataset:</b> This file contains the total dataset for this project.
 ## Usage
 To replicate or build upon this market analysis, follow these steps:<br/>
@@ -20,15 +20,15 @@ To replicate or build upon this market analysis, follow these steps:<br/>
 <b>Clone the repository:</b>
 
 git clone https://github.com/Pallabpal/ev-market.git <br/>
-<b>Install the necessary dependencies. We recommend creating a virtual environment before installing the dependencies:</b>
+<b>Install the necessary dependencies. We recommend creating a virtual environment before installing the dependencies:</b><br/>
 virtualenv env
 source env/bin/activate
 pip install -r requirements.txt
-
+<br/>
 1. Explore the notebooks directory to access the Jupyter notebooks containing the analysis and insights.
 2. Utilize the data in the data folder to perform further analysis or modify the existing notebooks according to your requirements.
 
-<b>Teammates<b>
+### Teammates
 <li>Midhir Nambiar</li>
 <li>Kushal Bosu</li>
 <li>Pratham Singh</li>
