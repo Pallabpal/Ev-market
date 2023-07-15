@@ -1,6 +1,6 @@
 # Market Segmentation Analysis of Electric Vehicle Market in India
                         
-     ![d](https://github.com/Pallabpal/Ev-market/assets/122145541/bf80344e-0280-4b5a-97f7-d9fca447a77e)
+![d](https://github.com/Pallabpal/Ev-market/assets/122145541/bf80344e-0280-4b5a-97f7-d9fca447a77e)
 
 ## Problem Statement
 The objective of this project is to conduct a comprehensive market analysis for the electric vehicle (EV) industry in India, focusing on geographic, demographic, and behavioral segments. The goal is to identify opportunities and challenges for establishing and growing an EV startup in the Indian market.
