@@ -15,11 +15,11 @@ Moreover, our analysis also highlighted key factors influencing EV adoption, suc
 <b>Code files:</b> This contains the codes
 <b>Dataset:</b> This file contains the total dataset for this project.
 ## Usage
-To replicate or build upon this market analysis, follow these steps:
+To replicate or build upon this market analysis, follow these steps:<br/>
 
 <b>Clone the repository:</b>
 
-git clone https://github.com/Pallabpal/ev-market.git
+git clone https://github.com/Pallabpal/ev-market.git <br/>
 <b>Install the necessary dependencies. We recommend creating a virtual environment before installing the dependencies:</b>
 virtualenv env
 source env/bin/activate
