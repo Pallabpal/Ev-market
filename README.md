@@ -34,4 +34,5 @@ pip install -r requirements.txt
 <li>Midhir Nambiar</li>
 <li>Kushal Bosu</li>
 <li>Pratham Singh</li>
+
 Feel free to contribute to this project by submitting pull requests. If you encounter any issues or have suggestions for improvements, please open an issue on the repository.
